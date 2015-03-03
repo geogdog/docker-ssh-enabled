@@ -4,10 +4,9 @@ SSH Enabled CentOS container
 Build
 -----
 ```
-docker build --rm -t vnumedia/ssh-enabled .
+docker build --rm -t geogdog/ssh-enabled .
 ```
 
 Run
 ---
-docker run --rm -ti vnumedia/ssh-enabled /bin/bash
-# docker-ssh-enabled
+docker run --rm -ti geogdog/ssh-enabled /bin/bash
