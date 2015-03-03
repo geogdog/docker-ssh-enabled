@@ -1,6 +1,10 @@
 SSH Enabled CentOS container
 ============================
 
+Information
+-----------
+This image is only meant as a way of booting multiple machines with low overhead on your local machine using vagrant.
+
 Build
 -----
 ```
