@@ -1,5 +1,5 @@
-SSH Enabled CentOS container
-============================
+SSH Enabled CentOS container for Vagrant
+========================================
 
 Information
 -----------
