@@ -8,11 +8,11 @@ This image is only meant as a way of booting multiple machines with low overhead
 Build
 -----
 ```
-docker build --rm -t geogdog/docker-ssh-enabled .
+docker build --rm -t geogdog/ssh-enabled .
 ```
 
 Run
 ---
 ```
-docker run --rm -ti geogdog/docker-ssh-enabled /bin/bash
+docker run --rm -ti geogdog/ssh-enabled /bin/bash
 ```
